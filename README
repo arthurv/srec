@@ -1,0 +1,6 @@
+This is a fork of the srec speech recognition engine from
+Android 4.1(Jelly Bean) by Google and Nuance software.
+
+Main objective of this fork is to get the engine working on
+linux distros like Debian, and possibly generate community-generated
+acoustic models.
